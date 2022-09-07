@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dynamic-weather-website/static/css/main.2a0d2392.css",
+    "main.js": "/Dynamic-weather-website/static/js/main.d4860248.js",
+    "static/js/787.020cb2b5.chunk.js": "/Dynamic-weather-website/static/js/787.020cb2b5.chunk.js",
+    "static/media/cloud3.jpg": "/Dynamic-weather-website/static/media/cloud3.532ad1ac01eb68f0f047.jpg",
+    "static/media/weather.jpg": "/Dynamic-weather-website/static/media/weather.f7c8789833409203c711.jpg",
+    "index.html": "/Dynamic-weather-website/index.html",
+    "main.2a0d2392.css.map": "/Dynamic-weather-website/static/css/main.2a0d2392.css.map",
+    "main.d4860248.js.map": "/Dynamic-weather-website/static/js/main.d4860248.js.map",
+    "787.020cb2b5.chunk.js.map": "/Dynamic-weather-website/static/js/787.020cb2b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0d2392.css",
+    "static/js/main.d4860248.js"
+  ]
+}
